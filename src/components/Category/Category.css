@@ -1,0 +1,22 @@
+.CategoryItem{
+    background-color: rgba(240, 248, 255, 0.493);
+    border-bottom: 5px solid ;
+    margin-top: 30px;
+    padding: 1rem;
+    
+}
+.CategoryItem a{
+    text-decoration: none;
+    background-color: green;
+    color: aliceblue;
+}
+.CategoryItem a:hover{
+    text-decoration: none;
+    background-color: aliceblue;
+    color: green;
+}
+.CategotyList{
+    display: inline-block;
+    padding: 5rem;
+    width: 100%;
+}
